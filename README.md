@@ -2,11 +2,11 @@
 
 **Full Stack Developer & Tech Lead | JavaScript | TypeScript | React | Node.js | 6+ years of experience**
 
-I'm a passionate developer who started from scratch, facing real challenges early in life — from fixing computers and delivering food on a motorbike to becoming Tech Lead at a fintech-backed real estate company. Over these years, I've developed high-impact applications, mentored developers, and led teams through critical deliveries.
+I'm a passionate developer who started from scratch, overcoming real challenges early in life. From fixing computers and delivering food on a motorbike to becoming a Tech Lead at a billion-dollar fintech-backed real estate company. Over the years, I have built high-impact applications, mentored developers, and led teams through critical deliveries.
 
-My specialty is creating scalable web applications with a strong focus on code quality, performance, maintainability, and usability — always aligned with business needs.
+My specialty is creating scalable web applications with a strong focus on code quality, performance, maintainability and usability, always aligned with business needs.
 
-Currently open to international opportunities — remote or relocation (Portugal-based, with full documentation ready).
+I am currently open to international opportunities, either remote or relocation. I am based in Portugal with full documentation ready.
 
 ---
 
