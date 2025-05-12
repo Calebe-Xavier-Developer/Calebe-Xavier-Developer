@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Calebe Xavier 👨‍💻
 
-**Full Stack Developer & Tech Lead | JavaScript | TypeScript | React | Node.js | 6+ years of experience**
+**Full Stack Developer & Tech Lead | JavaScript | TypeScript | React | Node.js | Express | Nest | 6+ years of experience**
 
 I'm a passionate developer who started from scratch, overcoming real challenges early in life. From fixing computers and delivering food on a motorbike to becoming a Tech Lead at a billion-dollar fintech-backed real estate company. Over the years, I have built high-impact applications, mentored developers, and led teams through critical deliveries.
 
